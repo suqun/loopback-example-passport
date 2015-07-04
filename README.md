@@ -14,10 +14,11 @@ $ cd loopback-example-passport
 $ npm install
 ```
 
-## Get your client ids/secrets from facebook & google
+## Get your client ids/secrets from facebook & google & github
 
 - https://developers.facebook.com/apps
 - https://console.developers.google.com/project
+- https://github.com/settings/applications/new
 
 ## Create providers.json
 
